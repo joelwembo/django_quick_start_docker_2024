@@ -209,6 +209,9 @@ query {
 http://127.0.0.1:8080/swagger/
 
 
+## references  ( by me)
 
+https://joelotepawembo.medium.com/automating-django-celery-redis-and-postgres-deployment-to-aws-ec2-using-terraform-complete-a99dc00289a5
 
+https://medium.com/@joelotepawembo/deploying-a-django-application-to-aws-fargate-and-cloudfront-using-aws-cdk-with-route53-domain-name-f41bcfe22d0c
 
