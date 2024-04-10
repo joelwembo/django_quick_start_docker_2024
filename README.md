@@ -208,6 +208,7 @@ query {
 
 http://127.0.0.1:8000/swagger/
 
+![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/168b76c5-4856-4057-84ad-3270c332974d)
 
 
 
