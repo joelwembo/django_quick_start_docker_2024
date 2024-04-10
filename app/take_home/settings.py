@@ -33,7 +33,6 @@ ALLOWED_HOSTS=['localhost' , '127.0.0.1', '0.0.0.0', 'host.docker.internal', '17
 
 
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -83,10 +82,10 @@ WSGI_APPLICATION = 'take_home.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':   "DB3",
-        'USER': "postgres",
-        'PASSWORD': "postgres",
-        'HOST': "localhost",
+        'NAME': os.environ.get("POSTGRES_NAME", "DB3"),
+        'USER': os.environ.get("POSTGRES_USER", "postgres"),
+        'PASSWORD': os.environ.get("POSTGRES_PASSWORD", "postgres"),
+        'HOST': os.environ.get("POSTGRES_HOST", "db"),
         'PORT': int(os.environ.get("POSTGRES_PORT", "5432")),
     },
 }
