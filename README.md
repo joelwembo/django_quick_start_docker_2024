@@ -161,4 +161,8 @@ query {
 
 ![Screenshot 2024-04-10 220542](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/0eb29ccc-c9ed-433a-b075-91a24bffbb22)
 
+# API Docs
+
+http://127.0.0.1:8080/swagger/
+
 
