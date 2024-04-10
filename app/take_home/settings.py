@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'take_home.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.environ.get('POSTGRES_NAME'),
-        'USER': os.environ.get('POSTGRES_USER'),
-        'PASSWORD': os.environ.get('POSTGRES_PASS'),
-        'HOST': os.environ.get('POSTGRES_HOST'),
-        'PORT': os.environ.get('POSTGRES_PORT'),
+        'NAME':   "DB3",
+        'USER': "postgres",
+        'PASSWORD': "postgres",
+        'HOST': "localhost",
+        'PORT': 5432,
     },
 }
 

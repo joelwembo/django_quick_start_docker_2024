@@ -1,6 +1,7 @@
 from django.http import JsonResponse
 
 
+
 def list_pets(request):
     return JsonResponse(
         {
