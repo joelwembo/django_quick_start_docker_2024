@@ -206,7 +206,9 @@ query {
 
 # API Docs
 
-http://127.0.0.1:8080/swagger/
+http://127.0.0.1:8000/swagger/
+
+
 
 
 ## references  ( by me)
