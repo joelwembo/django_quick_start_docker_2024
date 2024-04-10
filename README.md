@@ -157,3 +157,8 @@ query {
 
 ![alt text](image.png)
 
+![Screenshot 2024-04-10 220542](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/fb08dec8-27bb-4f2c-a762-97a3a627bc1c)
+
+![Screenshot 2024-04-10 220542](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/0eb29ccc-c9ed-433a-b075-91a24bffbb22)
+
+
