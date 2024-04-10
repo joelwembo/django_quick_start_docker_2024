@@ -50,7 +50,7 @@ PostgreSQL is provided in our skeleton projects, but another database is fine if
 ![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/84acea2b-0b17-49ff-9d8f-5695cd7e065c)
 
 
-## django
+## what is django
 Django is a free and open-source, Python-based web framework that runs on a web server. It follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit.
 
 
@@ -164,7 +164,12 @@ python manage.py runserver
 
 ![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/ea370aa5-e9fd-483c-85bb-ef37b6c34ee0)
 
+## Docker and Docker compose
 
+docker-run:
+ @ docker-compose down 
+ @ docker-compose build --no-cache
+ @ docker-compose up
 
 # GraphQL
 
