@@ -118,6 +118,36 @@ python manage.py migrate
 
 Step 8 : Launch the django development server
 
+Dependencies :
+
+``
+
+aniso8601
+asgiref
+certifi
+charset-normalizer
+Django
+djangorestframework
+djangorestframework-simplejwt
+graphene
+graphene-django
+graphql-core
+idna
+install
+promise
+psycopg2-binary
+PyJWT
+python-dotenv
+requests
+six
+sqlparse
+text-unidecode
+tzdata
+urllib3
+
+``
+
+
 python manage.py runserver
 
 
