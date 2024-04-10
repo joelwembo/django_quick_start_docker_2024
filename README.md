@@ -45,7 +45,9 @@ PostgreSQL is provided in our skeleton projects, but another database is fine if
 * A Mars Rover camera viewer
 
 
-# weather API
+# Weather API Application
+
+![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/84acea2b-0b17-49ff-9d8f-5695cd7e065c)
 
 
 ## django
