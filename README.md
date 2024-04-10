@@ -1,4 +1,8 @@
 # Django Skeleton
+## Project name : Weather Checking App
+
+## summary
+Weather data plays a vital role in our daily lives, helping us plan our activities and stay prepared for different weather conditions. As a developer, I’m here to guide you through the process of fetching weather data for a specific location using Django and Django Rest Framework. In this article, we will utilize an API to get real-time weather information and display it in a simple web application. So, let’s get started!
 
 ## Getting Started
 Dependencies:
@@ -44,6 +48,7 @@ PostgreSQL is provided in our skeleton projects, but another database is fine if
 * A green/red alert for outdoor activity safety
 * A Mars Rover camera viewer
 
+## Solution
 
 # Weather API Application
 
@@ -115,6 +120,9 @@ python manage.py migrate
 ![Screenshot 2024-04-10 172648](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/c576b60b-925f-4f19-aa12-e671d1f07c5a)
 ![Screenshot 2024-04-10 175204](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/084efdad-c4b0-44d2-a9f8-93365f0178df)
 
+# Data Persistance
+
+![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/f021efac-70bd-49d0-aa2d-bb9bdbd8a553)
 
 Step 8 : Launch the django development server
 
@@ -194,5 +202,8 @@ query {
 # API Docs
 
 http://127.0.0.1:8080/swagger/
+
+
+
 
 
