@@ -124,9 +124,17 @@ python manage.py runserver
 ![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/5e14816e-3d34-4559-be6d-d03dfd69c8f5)
 
 # Rest
+
+![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/b4d2db56-4971-4db1-baf5-e95c329a3731)
+
+
 ![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/3d4947c0-bfaf-40f2-b40b-5496267fb1e8)
 
 ![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/140eeef7-01d1-4f4c-bcf3-0d8e84295c4c)
+
+![image](https://github.com/joelwembo/django_quick_start_docker_2024/assets/19718580/ea370aa5-e9fd-483c-85bb-ef37b6c34ee0)
+
+
 
 # GraphQL
 
